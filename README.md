@@ -7,7 +7,7 @@ You'll need Python and Beautiful soup to run this
 # How To Use
 Enter links of lenskart products into the links.txt folder(make sure not to leave any whitespace)
 Run main.py and wait for the links to finish being scraped.
-Open the output CSV file and enjoy.
+Open the output CSV file and enjoy. Run imgdownloader to download images from the links(of the products). You need to download firefox and have geckodriver in PATH for it to work.
 
 # Images
 ![Screenshot](https://puu.sh/FnfZN/c61a776669.png)
