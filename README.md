@@ -3,6 +3,7 @@ A simple webscraper made in python that I made for a very specific purpose. Add 
 
 # Dependancies
 You'll need Python and Beautiful soup to run this
+You will also need selenium for downloading the images(optional) along with having firefox installed with geckodriver in PATH.
 
 # How To Use
 Enter links of lenskart products into the links.txt folder(make sure not to leave any whitespace)
